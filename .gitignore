@@ -1,0 +1,14 @@
+# Залежності
+node_modules/
+
+# Секрети
+.env
+.env.local
+
+# Системне сміття
+.DS_Store
+Thumbs.db
+
+# Згенеровані папки
+dist/
+build/
